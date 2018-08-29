@@ -1,0 +1,932 @@
+967  [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+970  [main] INFO  c.w.apollologback.XmlApplication - info msg
+970  [main] WARN  c.w.apollologback.XmlApplication - warn msg
+970  [main] ERROR c.w.apollologback.XmlApplication - error msg
+970  [main] ERROR c.w.apollologback.XmlApplication -  
+10970 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+10970 [main] INFO  c.w.apollologback.XmlApplication - info msg
+10970 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+10970 [main] ERROR c.w.apollologback.XmlApplication - error msg
+10970 [main] ERROR c.w.apollologback.XmlApplication -  
+2889 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+2892 [main] INFO  c.w.apollologback.XmlApplication - info msg
+2893 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+2893 [main] ERROR c.w.apollologback.XmlApplication - error msg
+2893 [main] ERROR c.w.apollologback.XmlApplication -  
+12894 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+12894 [main] INFO  c.w.apollologback.XmlApplication - info msg
+12894 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+12894 [main] ERROR c.w.apollologback.XmlApplication - error msg
+12894 [main] ERROR c.w.apollologback.XmlApplication -  
+22895 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+22895 [main] INFO  c.w.apollologback.XmlApplication - info msg
+22895 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+22895 [main] ERROR c.w.apollologback.XmlApplication - error msg
+22895 [main] ERROR c.w.apollologback.XmlApplication -  
+32895 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+32895 [main] INFO  c.w.apollologback.XmlApplication - info msg
+32895 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+32895 [main] ERROR c.w.apollologback.XmlApplication - error msg
+32895 [main] ERROR c.w.apollologback.XmlApplication -  
+42895 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+42895 [main] INFO  c.w.apollologback.XmlApplication - info msg
+42895 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+42895 [main] ERROR c.w.apollologback.XmlApplication - error msg
+42895 [main] ERROR c.w.apollologback.XmlApplication -  
+57465 [main] ERROR c.w.apollologback.XmlApplication - error msg
+57465 [main] ERROR c.w.apollologback.XmlApplication -  
+76606 [main] ERROR c.w.apollologback.XmlApplication - error msg
+76606 [main] ERROR c.w.apollologback.XmlApplication -  
+86974 [main] ERROR c.w.apollologback.XmlApplication - error msg
+86976 [main] ERROR c.w.apollologback.XmlApplication -  
+97034 [main] ERROR c.w.apollologback.XmlApplication - error msg
+97034 [main] ERROR c.w.apollologback.XmlApplication -  
+107034 [main] ERROR c.w.apollologback.XmlApplication - error msg
+107034 [main] ERROR c.w.apollologback.XmlApplication -  
+117034 [main] ERROR c.w.apollologback.XmlApplication - error msg
+117034 [main] ERROR c.w.apollologback.XmlApplication -  
+127034 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+127034 [main] INFO  c.w.apollologback.XmlApplication - info msg
+127034 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+127034 [main] ERROR c.w.apollologback.XmlApplication - error msg
+127034 [main] ERROR c.w.apollologback.XmlApplication -  
+137034 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+137034 [main] INFO  c.w.apollologback.XmlApplication - info msg
+137034 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+137034 [main] ERROR c.w.apollologback.XmlApplication - error msg
+137034 [main] ERROR c.w.apollologback.XmlApplication -  
+147034 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+147034 [main] INFO  c.w.apollologback.XmlApplication - info msg
+147034 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+147034 [main] ERROR c.w.apollologback.XmlApplication - error msg
+147034 [main] ERROR c.w.apollologback.XmlApplication -  
+157034 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+157034 [main] INFO  c.w.apollologback.XmlApplication - info msg
+157034 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+157034 [main] ERROR c.w.apollologback.XmlApplication - error msg
+157034 [main] ERROR c.w.apollologback.XmlApplication -  
+167035 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+167035 [main] INFO  c.w.apollologback.XmlApplication - info msg
+167035 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+167035 [main] ERROR c.w.apollologback.XmlApplication - error msg
+167035 [main] ERROR c.w.apollologback.XmlApplication -  
+177035 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+177035 [main] INFO  c.w.apollologback.XmlApplication - info msg
+177035 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+177035 [main] ERROR c.w.apollologback.XmlApplication - error msg
+177035 [main] ERROR c.w.apollologback.XmlApplication -  
+187035 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+187035 [main] INFO  c.w.apollologback.XmlApplication - info msg
+187035 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+187035 [main] ERROR c.w.apollologback.XmlApplication - error msg
+187035 [main] ERROR c.w.apollologback.XmlApplication -  
+197035 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+197035 [main] INFO  c.w.apollologback.XmlApplication - info msg
+197035 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+197035 [main] ERROR c.w.apollologback.XmlApplication - error msg
+197035 [main] ERROR c.w.apollologback.XmlApplication -  
+207035 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+207035 [main] INFO  c.w.apollologback.XmlApplication - info msg
+207035 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+207035 [main] ERROR c.w.apollologback.XmlApplication - error msg
+207035 [main] ERROR c.w.apollologback.XmlApplication -  
+217035 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+217035 [main] INFO  c.w.apollologback.XmlApplication - info msg
+217035 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+217035 [main] ERROR c.w.apollologback.XmlApplication - error msg
+217035 [main] ERROR c.w.apollologback.XmlApplication -  
+227035 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+227036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+227036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+227036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+227036 [main] ERROR c.w.apollologback.XmlApplication -  
+237036 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+237036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+237036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+237036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+237036 [main] ERROR c.w.apollologback.XmlApplication -  
+247036 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+247036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+247036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+247036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+247036 [main] ERROR c.w.apollologback.XmlApplication -  
+257036 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+257036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+257036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+257036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+257036 [main] ERROR c.w.apollologback.XmlApplication -  
+267036 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+267036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+267036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+267036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+267036 [main] ERROR c.w.apollologback.XmlApplication -  
+277036 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+277036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+277036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+277036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+277036 [main] ERROR c.w.apollologback.XmlApplication -  
+287036 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+287036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+287036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+287036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+287036 [main] ERROR c.w.apollologback.XmlApplication -  
+297036 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+297036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+297036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+297036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+297036 [main] ERROR c.w.apollologback.XmlApplication -  
+307036 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+307036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+307036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+307036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+307036 [main] ERROR c.w.apollologback.XmlApplication -  
+317036 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+317036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+317036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+317036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+317036 [main] ERROR c.w.apollologback.XmlApplication -  
+327036 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+327036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+327036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+327036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+327036 [main] ERROR c.w.apollologback.XmlApplication -  
+337036 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+337036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+337036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+337036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+337036 [main] ERROR c.w.apollologback.XmlApplication -  
+347036 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+347036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+347036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+347036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+347036 [main] ERROR c.w.apollologback.XmlApplication -  
+357036 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+357036 [main] INFO  c.w.apollologback.XmlApplication - info msg
+357036 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+357036 [main] ERROR c.w.apollologback.XmlApplication - error msg
+357036 [main] ERROR c.w.apollologback.XmlApplication -  
+367055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+367055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+367055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+367055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+367055 [main] ERROR c.w.apollologback.XmlApplication -  
+377055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+377055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+377055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+377055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+377055 [main] ERROR c.w.apollologback.XmlApplication -  
+387055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+387055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+387055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+387055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+387055 [main] ERROR c.w.apollologback.XmlApplication -  
+397055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+397055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+397055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+397055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+397055 [main] ERROR c.w.apollologback.XmlApplication -  
+407055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+407055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+407055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+407055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+407055 [main] ERROR c.w.apollologback.XmlApplication -  
+417055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+417055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+417055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+417055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+417055 [main] ERROR c.w.apollologback.XmlApplication -  
+427055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+427055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+427055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+427055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+427055 [main] ERROR c.w.apollologback.XmlApplication -  
+437055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+437055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+437055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+437055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+437055 [main] ERROR c.w.apollologback.XmlApplication -  
+447055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+447055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+447055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+447055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+447055 [main] ERROR c.w.apollologback.XmlApplication -  
+457055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+457055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+457055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+457055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+457055 [main] ERROR c.w.apollologback.XmlApplication -  
+467055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+467055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+467055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+467055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+467055 [main] ERROR c.w.apollologback.XmlApplication -  
+477055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+477055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+477055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+477055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+477055 [main] ERROR c.w.apollologback.XmlApplication -  
+487055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+487055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+487055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+487055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+487055 [main] ERROR c.w.apollologback.XmlApplication -  
+497055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+497055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+497055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+497055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+497055 [main] ERROR c.w.apollologback.XmlApplication -  
+507055 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+507055 [main] INFO  c.w.apollologback.XmlApplication - info msg
+507055 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+507055 [main] ERROR c.w.apollologback.XmlApplication - error msg
+507056 [main] ERROR c.w.apollologback.XmlApplication -  
+517056 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+517056 [main] INFO  c.w.apollologback.XmlApplication - info msg
+517056 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+517056 [main] ERROR c.w.apollologback.XmlApplication - error msg
+517056 [main] ERROR c.w.apollologback.XmlApplication -  
+527056 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+527056 [main] INFO  c.w.apollologback.XmlApplication - info msg
+527056 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+527056 [main] ERROR c.w.apollologback.XmlApplication - error msg
+527056 [main] ERROR c.w.apollologback.XmlApplication -  
+537056 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+537056 [main] INFO  c.w.apollologback.XmlApplication - info msg
+537056 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+537056 [main] ERROR c.w.apollologback.XmlApplication - error msg
+537056 [main] ERROR c.w.apollologback.XmlApplication -  
+547056 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+547056 [main] INFO  c.w.apollologback.XmlApplication - info msg
+547056 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+547056 [main] ERROR c.w.apollologback.XmlApplication - error msg
+547056 [main] ERROR c.w.apollologback.XmlApplication -  
+557056 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+557056 [main] INFO  c.w.apollologback.XmlApplication - info msg
+557056 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+557056 [main] ERROR c.w.apollologback.XmlApplication - error msg
+557056 [main] ERROR c.w.apollologback.XmlApplication -  
+567056 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+567056 [main] INFO  c.w.apollologback.XmlApplication - info msg
+567056 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+567056 [main] ERROR c.w.apollologback.XmlApplication - error msg
+567056 [main] ERROR c.w.apollologback.XmlApplication -  
+577056 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+577056 [main] INFO  c.w.apollologback.XmlApplication - info msg
+577056 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+577056 [main] ERROR c.w.apollologback.XmlApplication - error msg
+577056 [main] ERROR c.w.apollologback.XmlApplication -  
+587056 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+587056 [main] INFO  c.w.apollologback.XmlApplication - info msg
+587056 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+587056 [main] ERROR c.w.apollologback.XmlApplication - error msg
+587056 [main] ERROR c.w.apollologback.XmlApplication -  
+597056 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+597056 [main] INFO  c.w.apollologback.XmlApplication - info msg
+597056 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+597056 [main] ERROR c.w.apollologback.XmlApplication - error msg
+597056 [main] ERROR c.w.apollologback.XmlApplication -  
+607056 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+607056 [main] INFO  c.w.apollologback.XmlApplication - info msg
+607056 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+607056 [main] ERROR c.w.apollologback.XmlApplication - error msg
+607056 [main] ERROR c.w.apollologback.XmlApplication -  
+617056 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+617056 [main] INFO  c.w.apollologback.XmlApplication - info msg
+617056 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+617056 [main] ERROR c.w.apollologback.XmlApplication - error msg
+617056 [main] ERROR c.w.apollologback.XmlApplication -  
+627056 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+627057 [main] INFO  c.w.apollologback.XmlApplication - info msg
+627057 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+627057 [main] ERROR c.w.apollologback.XmlApplication - error msg
+627057 [main] ERROR c.w.apollologback.XmlApplication -  
+637057 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+637057 [main] INFO  c.w.apollologback.XmlApplication - info msg
+637057 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+637057 [main] ERROR c.w.apollologback.XmlApplication - error msg
+637057 [main] ERROR c.w.apollologback.XmlApplication -  
+647057 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+647057 [main] INFO  c.w.apollologback.XmlApplication - info msg
+647057 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+647057 [main] ERROR c.w.apollologback.XmlApplication - error msg
+647057 [main] ERROR c.w.apollologback.XmlApplication -  
+657057 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+657057 [main] INFO  c.w.apollologback.XmlApplication - info msg
+657057 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+657057 [main] ERROR c.w.apollologback.XmlApplication - error msg
+657057 [main] ERROR c.w.apollologback.XmlApplication -  
+667057 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+667057 [main] INFO  c.w.apollologback.XmlApplication - info msg
+667057 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+667057 [main] ERROR c.w.apollologback.XmlApplication - error msg
+667057 [main] ERROR c.w.apollologback.XmlApplication -  
+677057 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+677057 [main] INFO  c.w.apollologback.XmlApplication - info msg
+677057 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+677057 [main] ERROR c.w.apollologback.XmlApplication - error msg
+677057 [main] ERROR c.w.apollologback.XmlApplication -  
+687057 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+687057 [main] INFO  c.w.apollologback.XmlApplication - info msg
+687057 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+687058 [main] ERROR c.w.apollologback.XmlApplication - error msg
+687058 [main] ERROR c.w.apollologback.XmlApplication -  
+697058 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+697058 [main] INFO  c.w.apollologback.XmlApplication - info msg
+697058 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+697058 [main] ERROR c.w.apollologback.XmlApplication - error msg
+697058 [main] ERROR c.w.apollologback.XmlApplication -  
+707066 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+707067 [main] INFO  c.w.apollologback.XmlApplication - info msg
+707067 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+707067 [main] ERROR c.w.apollologback.XmlApplication - error msg
+707067 [main] ERROR c.w.apollologback.XmlApplication -  
+717067 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+717067 [main] INFO  c.w.apollologback.XmlApplication - info msg
+717067 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+717067 [main] ERROR c.w.apollologback.XmlApplication - error msg
+717067 [main] ERROR c.w.apollologback.XmlApplication -  
+727067 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+727067 [main] INFO  c.w.apollologback.XmlApplication - info msg
+727067 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+727067 [main] ERROR c.w.apollologback.XmlApplication - error msg
+727067 [main] ERROR c.w.apollologback.XmlApplication -  
+737068 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+737068 [main] INFO  c.w.apollologback.XmlApplication - info msg
+737068 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+737069 [main] ERROR c.w.apollologback.XmlApplication - error msg
+737069 [main] ERROR c.w.apollologback.XmlApplication -  
+747069 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+747069 [main] INFO  c.w.apollologback.XmlApplication - info msg
+747069 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+747069 [main] ERROR c.w.apollologback.XmlApplication - error msg
+747069 [main] ERROR c.w.apollologback.XmlApplication -  
+757069 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+757069 [main] INFO  c.w.apollologback.XmlApplication - info msg
+757069 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+757070 [main] ERROR c.w.apollologback.XmlApplication - error msg
+757070 [main] ERROR c.w.apollologback.XmlApplication -  
+767070 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+767070 [main] INFO  c.w.apollologback.XmlApplication - info msg
+767070 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+767070 [main] ERROR c.w.apollologback.XmlApplication - error msg
+767070 [main] ERROR c.w.apollologback.XmlApplication -  
+777070 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+777070 [main] INFO  c.w.apollologback.XmlApplication - info msg
+777070 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+777070 [main] ERROR c.w.apollologback.XmlApplication - error msg
+777070 [main] ERROR c.w.apollologback.XmlApplication -  
+787070 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+787070 [main] INFO  c.w.apollologback.XmlApplication - info msg
+787070 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+787070 [main] ERROR c.w.apollologback.XmlApplication - error msg
+787070 [main] ERROR c.w.apollologback.XmlApplication -  
+797070 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+797070 [main] INFO  c.w.apollologback.XmlApplication - info msg
+797070 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+797070 [main] ERROR c.w.apollologback.XmlApplication - error msg
+797070 [main] ERROR c.w.apollologback.XmlApplication -  
+807070 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+807070 [main] INFO  c.w.apollologback.XmlApplication - info msg
+807070 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+807070 [main] ERROR c.w.apollologback.XmlApplication - error msg
+807070 [main] ERROR c.w.apollologback.XmlApplication -  
+817070 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+817071 [main] INFO  c.w.apollologback.XmlApplication - info msg
+817071 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+817072 [main] ERROR c.w.apollologback.XmlApplication - error msg
+817072 [main] ERROR c.w.apollologback.XmlApplication -  
+827072 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+827072 [main] INFO  c.w.apollologback.XmlApplication - info msg
+827072 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+827072 [main] ERROR c.w.apollologback.XmlApplication - error msg
+827072 [main] ERROR c.w.apollologback.XmlApplication -  
+837072 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+837072 [main] INFO  c.w.apollologback.XmlApplication - info msg
+837072 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+837072 [main] ERROR c.w.apollologback.XmlApplication - error msg
+837072 [main] ERROR c.w.apollologback.XmlApplication -  
+847072 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+847072 [main] INFO  c.w.apollologback.XmlApplication - info msg
+847072 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+847072 [main] ERROR c.w.apollologback.XmlApplication - error msg
+847072 [main] ERROR c.w.apollologback.XmlApplication -  
+857072 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+857072 [main] INFO  c.w.apollologback.XmlApplication - info msg
+857072 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+857072 [main] ERROR c.w.apollologback.XmlApplication - error msg
+857072 [main] ERROR c.w.apollologback.XmlApplication -  
+867072 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+867072 [main] INFO  c.w.apollologback.XmlApplication - info msg
+867072 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+867072 [main] ERROR c.w.apollologback.XmlApplication - error msg
+867072 [main] ERROR c.w.apollologback.XmlApplication -  
+877072 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+877072 [main] INFO  c.w.apollologback.XmlApplication - info msg
+877072 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+877072 [main] ERROR c.w.apollologback.XmlApplication - error msg
+877072 [main] ERROR c.w.apollologback.XmlApplication -  
+887072 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+887072 [main] INFO  c.w.apollologback.XmlApplication - info msg
+887072 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+887072 [main] ERROR c.w.apollologback.XmlApplication - error msg
+887072 [main] ERROR c.w.apollologback.XmlApplication -  
+897072 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+897072 [main] INFO  c.w.apollologback.XmlApplication - info msg
+897072 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+897072 [main] ERROR c.w.apollologback.XmlApplication - error msg
+897072 [main] ERROR c.w.apollologback.XmlApplication -  
+907072 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+907072 [main] INFO  c.w.apollologback.XmlApplication - info msg
+907072 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+907072 [main] ERROR c.w.apollologback.XmlApplication - error msg
+907072 [main] ERROR c.w.apollologback.XmlApplication -  
+917072 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+917072 [main] INFO  c.w.apollologback.XmlApplication - info msg
+917072 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+917072 [main] ERROR c.w.apollologback.XmlApplication - error msg
+917072 [main] ERROR c.w.apollologback.XmlApplication -  
+927072 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+927072 [main] INFO  c.w.apollologback.XmlApplication - info msg
+927072 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+927072 [main] ERROR c.w.apollologback.XmlApplication - error msg
+927072 [main] ERROR c.w.apollologback.XmlApplication -  
+937072 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+937072 [main] INFO  c.w.apollologback.XmlApplication - info msg
+937072 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+937072 [main] ERROR c.w.apollologback.XmlApplication - error msg
+937072 [main] ERROR c.w.apollologback.XmlApplication -  
+947072 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+947073 [main] INFO  c.w.apollologback.XmlApplication - info msg
+947073 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+947073 [main] ERROR c.w.apollologback.XmlApplication - error msg
+947073 [main] ERROR c.w.apollologback.XmlApplication -  
+957073 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+957073 [main] INFO  c.w.apollologback.XmlApplication - info msg
+957073 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+957073 [main] ERROR c.w.apollologback.XmlApplication - error msg
+957073 [main] ERROR c.w.apollologback.XmlApplication -  
+967073 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+967073 [main] INFO  c.w.apollologback.XmlApplication - info msg
+967073 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+967073 [main] ERROR c.w.apollologback.XmlApplication - error msg
+967073 [main] ERROR c.w.apollologback.XmlApplication -  
+977073 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+977073 [main] INFO  c.w.apollologback.XmlApplication - info msg
+977073 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+977073 [main] ERROR c.w.apollologback.XmlApplication - error msg
+977073 [main] ERROR c.w.apollologback.XmlApplication -  
+987074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+987074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+987074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+987074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+987074 [main] ERROR c.w.apollologback.XmlApplication -  
+997074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+997074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+997074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+997074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+997074 [main] ERROR c.w.apollologback.XmlApplication -  
+1007074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1007074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1007074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1007074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1007074 [main] ERROR c.w.apollologback.XmlApplication -  
+1017074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1017074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1017074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1017074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1017074 [main] ERROR c.w.apollologback.XmlApplication -  
+1027074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1027074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1027074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1027074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1027074 [main] ERROR c.w.apollologback.XmlApplication -  
+1037074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1037074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1037074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1037074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1037074 [main] ERROR c.w.apollologback.XmlApplication -  
+1047074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1047074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1047074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1047074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1047074 [main] ERROR c.w.apollologback.XmlApplication -  
+1057074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1057074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1057074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1057074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1057074 [main] ERROR c.w.apollologback.XmlApplication -  
+1067074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1067074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1067074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1067074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1067074 [main] ERROR c.w.apollologback.XmlApplication -  
+1077074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1077074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1077074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1077074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1077074 [main] ERROR c.w.apollologback.XmlApplication -  
+1087074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1087074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1087074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1087074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1087074 [main] ERROR c.w.apollologback.XmlApplication -  
+1097074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1097074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1097074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1097074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1097074 [main] ERROR c.w.apollologback.XmlApplication -  
+1107074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1107074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1107074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1107074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1107074 [main] ERROR c.w.apollologback.XmlApplication -  
+1117074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1117074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1117074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1117074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1117074 [main] ERROR c.w.apollologback.XmlApplication -  
+1127074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1127074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1127074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1127074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1127074 [main] ERROR c.w.apollologback.XmlApplication -  
+1137074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1137074 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1137074 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1137074 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1137074 [main] ERROR c.w.apollologback.XmlApplication -  
+1147074 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1147076 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1147076 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1147076 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1147076 [main] ERROR c.w.apollologback.XmlApplication -  
+1157076 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1157076 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1157076 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1157076 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1157076 [main] ERROR c.w.apollologback.XmlApplication -  
+1167076 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1167076 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1167076 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1167076 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1167076 [main] ERROR c.w.apollologback.XmlApplication -  
+1177076 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1177076 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1177076 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1177076 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1177076 [main] ERROR c.w.apollologback.XmlApplication -  
+1187078 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1187078 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1187078 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1187078 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1187078 [main] ERROR c.w.apollologback.XmlApplication -  
+1197078 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1197078 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1197078 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1197078 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1197078 [main] ERROR c.w.apollologback.XmlApplication -  
+1207078 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1207078 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1207078 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1207078 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1207078 [main] ERROR c.w.apollologback.XmlApplication -  
+1217078 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1217078 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1217078 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1217078 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1217078 [main] ERROR c.w.apollologback.XmlApplication -  
+1227078 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1227078 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1227078 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1227078 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1227078 [main] ERROR c.w.apollologback.XmlApplication -  
+1237078 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1237079 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1237079 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1237079 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1237079 [main] ERROR c.w.apollologback.XmlApplication -  
+1247080 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1247080 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1247080 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1247080 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1247080 [main] ERROR c.w.apollologback.XmlApplication -  
+1257080 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1257080 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1257080 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1257080 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1257080 [main] ERROR c.w.apollologback.XmlApplication -  
+1267081 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1267081 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1267081 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1267081 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1267081 [main] ERROR c.w.apollologback.XmlApplication -  
+1277081 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1277081 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1277081 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1277081 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1277081 [main] ERROR c.w.apollologback.XmlApplication -  
+1287081 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1287081 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1287081 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1287081 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1287081 [main] ERROR c.w.apollologback.XmlApplication -  
+1297081 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1297081 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1297081 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1297082 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1297082 [main] ERROR c.w.apollologback.XmlApplication -  
+1307082 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1307082 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1307082 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1307082 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1307082 [main] ERROR c.w.apollologback.XmlApplication -  
+1317082 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1317082 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1317082 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1317082 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1317082 [main] ERROR c.w.apollologback.XmlApplication -  
+1327082 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1327088 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1327088 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1327090 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1327090 [main] ERROR c.w.apollologback.XmlApplication -  
+1337090 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1337090 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1337090 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1337090 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1337090 [main] ERROR c.w.apollologback.XmlApplication -  
+1347090 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1347090 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1347090 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1347090 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1347090 [main] ERROR c.w.apollologback.XmlApplication -  
+1357090 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1357090 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1357090 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1357090 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1357090 [main] ERROR c.w.apollologback.XmlApplication -  
+1367090 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1367090 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1367090 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1367090 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1367090 [main] ERROR c.w.apollologback.XmlApplication -  
+1377090 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1377090 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1377090 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1377090 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1377090 [main] ERROR c.w.apollologback.XmlApplication -  
+1387090 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1387090 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1387090 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1387090 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1387090 [main] ERROR c.w.apollologback.XmlApplication -  
+1397090 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1397090 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1397090 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1397090 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1397090 [main] ERROR c.w.apollologback.XmlApplication -  
+1407090 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1407090 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1407090 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1407090 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1407090 [main] ERROR c.w.apollologback.XmlApplication -  
+1417090 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1417091 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1417091 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1417091 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1417091 [main] ERROR c.w.apollologback.XmlApplication -  
+1427091 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1427091 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1427091 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1427091 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1427091 [main] ERROR c.w.apollologback.XmlApplication -  
+1437091 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1437091 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1437091 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1437091 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1437091 [main] ERROR c.w.apollologback.XmlApplication -  
+1447091 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1447091 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1447091 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1447091 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1447091 [main] ERROR c.w.apollologback.XmlApplication -  
+1457091 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1457091 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1457091 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1457091 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1457091 [main] ERROR c.w.apollologback.XmlApplication -  
+1467092 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1467092 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1467092 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1467092 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1467092 [main] ERROR c.w.apollologback.XmlApplication -  
+1477092 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1477092 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1477092 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1477092 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1477093 [main] ERROR c.w.apollologback.XmlApplication -  
+1487094 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1487094 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1487094 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1487094 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1487094 [main] ERROR c.w.apollologback.XmlApplication -  
+1497094 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1497094 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1497094 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1497094 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1497094 [main] ERROR c.w.apollologback.XmlApplication -  
+1507096 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1507096 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1507097 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1507097 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1507097 [main] ERROR c.w.apollologback.XmlApplication -  
+1517097 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1517097 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1517097 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1517098 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1517098 [main] ERROR c.w.apollologback.XmlApplication -  
+1527098 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1527098 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1527098 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1527098 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1527098 [main] ERROR c.w.apollologback.XmlApplication -  
+1537098 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1537098 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1537098 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1537098 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1537098 [main] ERROR c.w.apollologback.XmlApplication -  
+1547098 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1547098 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1547098 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1547098 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1547098 [main] ERROR c.w.apollologback.XmlApplication -  
+1557098 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1557098 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1557098 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1557098 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1557098 [main] ERROR c.w.apollologback.XmlApplication -  
+1567098 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1567098 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1567098 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1567098 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1567098 [main] ERROR c.w.apollologback.XmlApplication -  
+1577098 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1577100 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1577100 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1577100 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1577100 [main] ERROR c.w.apollologback.XmlApplication -  
+1587100 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1587100 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1587100 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1587100 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1587100 [main] ERROR c.w.apollologback.XmlApplication -  
+1597100 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1597100 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1597100 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1597100 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1597100 [main] ERROR c.w.apollologback.XmlApplication -  
+1607100 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1607100 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1607100 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1607100 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1607100 [main] ERROR c.w.apollologback.XmlApplication -  
+1617100 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1617100 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1617100 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1617100 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1617100 [main] ERROR c.w.apollologback.XmlApplication -  
+1627100 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1627100 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1627100 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1627100 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1627100 [main] ERROR c.w.apollologback.XmlApplication -  
+1637101 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1637101 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1637101 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1637101 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1637101 [main] ERROR c.w.apollologback.XmlApplication -  
+1647101 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1647101 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1647101 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1647101 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1647101 [main] ERROR c.w.apollologback.XmlApplication -  
+1657101 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1657101 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1657101 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1657101 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1657101 [main] ERROR c.w.apollologback.XmlApplication -  
+1667101 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1667102 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1667102 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1667102 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1667102 [main] ERROR c.w.apollologback.XmlApplication -  
+1677103 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1677104 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1677104 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1677104 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1677104 [main] ERROR c.w.apollologback.XmlApplication -  
+1687104 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1687104 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1687104 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1687104 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1687104 [main] ERROR c.w.apollologback.XmlApplication -  
+1697104 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1697104 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1697104 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1697104 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1697104 [main] ERROR c.w.apollologback.XmlApplication -  
+1707104 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1707104 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1707104 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1707104 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1707104 [main] ERROR c.w.apollologback.XmlApplication -  
+1717104 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1717104 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1717104 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1717104 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1717104 [main] ERROR c.w.apollologback.XmlApplication -  
+1727104 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1727104 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1727104 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1727105 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1727105 [main] ERROR c.w.apollologback.XmlApplication -  
+1737106 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1737106 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1737106 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1737106 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1737106 [main] ERROR c.w.apollologback.XmlApplication -  
+1747106 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1747106 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1747106 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1747106 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1747106 [main] ERROR c.w.apollologback.XmlApplication -  
+1757106 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1757106 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1757106 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1757106 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1757106 [main] ERROR c.w.apollologback.XmlApplication -  
+1767106 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1767106 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1767106 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1767106 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1767106 [main] ERROR c.w.apollologback.XmlApplication -  
+1777106 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1777106 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1777106 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1777106 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1777106 [main] ERROR c.w.apollologback.XmlApplication -  
+1787106 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1787106 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1787106 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1787106 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1787106 [main] ERROR c.w.apollologback.XmlApplication -  
+1797106 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1797106 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1797106 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1797106 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1797106 [main] ERROR c.w.apollologback.XmlApplication -  
+1807106 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1807106 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1807106 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1807106 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1807106 [main] ERROR c.w.apollologback.XmlApplication -  
+1817106 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1817106 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1817106 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1817107 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1817108 [main] ERROR c.w.apollologback.XmlApplication -  
+1827108 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1827108 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1827108 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1827108 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1827108 [main] ERROR c.w.apollologback.XmlApplication -  
+1837108 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1837108 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1837108 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1837108 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1837108 [main] ERROR c.w.apollologback.XmlApplication -  
+1847108 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1847108 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1847108 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1847108 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1847108 [main] ERROR c.w.apollologback.XmlApplication -  
+1857108 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1857108 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1857108 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1857108 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1857108 [main] ERROR c.w.apollologback.XmlApplication -  
+1867108 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1867108 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1867108 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1867108 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1867108 [main] ERROR c.w.apollologback.XmlApplication -  
+1877108 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1877108 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1877108 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1877108 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1877108 [main] ERROR c.w.apollologback.XmlApplication -  
+1887108 [main] DEBUG c.w.apollologback.XmlApplication - debug msg
+1887108 [main] INFO  c.w.apollologback.XmlApplication - info msg
+1887108 [main] WARN  c.w.apollologback.XmlApplication - warn msg
+1887108 [main] ERROR c.w.apollologback.XmlApplication - error msg
+1887108 [main] ERROR c.w.apollologback.XmlApplication -  
