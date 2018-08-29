@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:apollo="http://www.ctrip.com/schema/apollo"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd
+       http://www.ctrip.com/schema/apollo http://www.ctrip.com/schema/apollo.xsd">
+    <!--<apollolog4j2:config order="10"/>-->
+    <!--<apollolog4j2:config namespaces="application,annotation,xml" order="11"/>-->
+
+    <!--<bean id = "wccConfigurer" class="com.weimob.soa.configcenter.WccPropertyPlaceholderConfigurer">
+        <property name="wccConfigCenterServerUrl" value="http://wcc.weimobqa.com"/>
+        <property name="applicationName" value="jingxuan.activity-service"/>
+        <property name="order" value="0"/>
+        <property name="locations">
+            <list>
+                <value>activity_redis.properties</value>
+            </list>
+        </property>
+    </bean>-->
+
+    <context:component-scan
+            base-package="com.weimob.apollologback"/>
+
+</beans>
